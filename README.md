@@ -1,0 +1,1 @@
+Simple task manager built with React, Material-UI, Sequelize, and Nodejs. 
